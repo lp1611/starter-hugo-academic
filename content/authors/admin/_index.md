@@ -5,10 +5,10 @@ bio: My research interests include computational statistics, simulation based
   statistical learning, Bayesian nonparametrics and stochastic processes.
 interests:
   - Computational statistics
-  - simulation based statistical learning
+  - Simulation based statistical learning
   - Bayesian nonparametrics
-  - stochastic processes
-  - spatial statistics.
+  - Stochastic processes
+  - Spatial-temporal statistics.
 social:
   - icon: envelope
     icon_pack: fas
