@@ -15,31 +15,28 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ZKS9dtkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lp1611/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/mwlite/in/lekha-patel-83367757
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sandia National Laboratories
+    url: https://www.sandia.gov/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistics
+      institution: Imperial College London
+      year: 2019
+    - course: MSci in Mathematics
+      institution: Imperial College London
+      year: 2015
 superuser: true
 highlight_name: true
 title: Lekha Patel
-email: ""
+email: lpatel@sandia.gov
 ---
 I am a senior statistician at Sandia National Laboratories. My research interests broadly lie in the fields of computational statistics, simulation-based statistical learning (particle methods, Monte Carlo approaches, Approximate Bayesian Computation) of stochastic processes and Bayesian nonparametrics. Other areas of interest include spatial-temporal statistics, extreme value analysis and Bayesian variable selection. Applications include in bioinformatics and biological imaging, cyber-security, climatology and social sciences. 
 
