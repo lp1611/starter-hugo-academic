@@ -1,6 +1,6 @@
 ---
 role: Statistician
-avatar_filename: lekha_patel.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computational statistics, simulation based
   statistical learning, Bayesian nonparametrics and stochastic processes.
 interests:
@@ -8,7 +8,7 @@ interests:
   - Simulation based statistical learning
   - Bayesian nonparametrics
   - Stochastic processes
-  - Spatial-temporal statistics.
+  - Spatial-temporal statistics
 social:
   - icon: envelope
     icon_pack: fas
