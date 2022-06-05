@@ -14,7 +14,9 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "1"
-authors: []
+authors:
+  - Lekha-Patel
+  - Ed-Cohen
 summary: ""
 url_dataset: ""
 url_project: ""
