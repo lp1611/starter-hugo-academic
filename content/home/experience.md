@@ -3,6 +3,9 @@ widget: experience
 widget_id: Experience
 weight: 130
 title: Experience
+active: true
+design:
+  columns: "2"
 ---
 <!-- ---
 # An instance of the Experience widget.
