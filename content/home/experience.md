@@ -1,3 +1,9 @@
+---
+widget: experience
+widget_id: Experience
+weight: 130
+title: Experience
+---
 <!-- ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
