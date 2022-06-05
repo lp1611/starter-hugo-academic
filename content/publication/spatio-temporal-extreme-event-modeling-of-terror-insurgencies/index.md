@@ -7,6 +7,8 @@ authors:
   - L. Shand
   - J. D. Tucker and G. Huerta
 doi: https://arxiv.org/pdf/2110.08363.pdf
+publication: "*Preprint*"
+publication_short: "*Preprint*"
 abstract: >-
   Extreme events with potential deadly outcomes, such as those organized by
   terror groups, are highly
