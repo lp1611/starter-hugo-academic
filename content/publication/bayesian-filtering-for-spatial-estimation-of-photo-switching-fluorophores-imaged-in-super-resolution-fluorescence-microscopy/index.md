@@ -18,7 +18,7 @@ authors: []
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IEEE*
+publication_short: In *2018 52nd Asilomar Conference on Signals, Systems, and Computers*
 url_source: ""
 url_video: ""
 author_notes: []
