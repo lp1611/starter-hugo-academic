@@ -9,7 +9,7 @@ abstract: The success of many Super-resolution fluorescence microscopy methods
   molecular positions with observation sets collected across time, we show that
   the full Bayes filter for this problem can be derived and positions recovered
   via a Markov Chain Monte Carlo sampler.
-draft: true
+draft: false
 slides: ""
 url_pdf: ""
 publication_types:
