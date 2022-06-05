@@ -24,7 +24,7 @@ url_video: ""
 author_notes: []
 publication: In *2018 52nd Asilomar Conference on Signals, Systems, and Computers*
 featured: true
-date: 2022-06-05T05:04:59.311Z
+date: 2018-10-02T05:04:00.000Z
 url_slides: ""
 title: Bayesian filtering for spatial estimation of photo-switching fluorophores
   imaged in Super-resolution fluorescence microscopy
