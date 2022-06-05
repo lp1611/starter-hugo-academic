@@ -29,7 +29,7 @@ experience:
     location: Boston, MA
     date_start: '2022-01-20'
     date_end: ''
-    description: Devising statistical and ML algorithms for DNA sequencing, early disease detection and health monitoring. 
+    description: 'Devising statistical and ML algorithms for DNA sequencing, early disease detection and health monitoring.' 
     
   - title: Statistician
     company: Sandia National Laboratories
@@ -38,7 +38,7 @@ experience:
     location: Albuquerque, NM
     date_start: '2020-01-27'
     date_end: ''
-    description: Devising novel statistical methodologies and inference mechansisms for applications in national security. 
+    description: 'Devising novel statistical methodologies and inference mechansisms for applications in national security.'
 
   - title: Machine Learning (ML) consultant 
     company: Filtered
@@ -47,7 +47,7 @@ experience:
     location: London, UK
     date_start: '2019-08-30'
     date_end: '2020-01-20'
-    description: Implemented automatic skills labeling scheme with sparse and inbalanced data. 
+    description: 'Implemented automatic skills labeling scheme with sparse and inbalanced data.'
 
 design:
   columns: '2'
