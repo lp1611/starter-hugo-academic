@@ -6,7 +6,7 @@ publication_types:
 authors:
   - L. Patel
   - D. Williamson
-  - D.M. Owens and E.A.K. Cohen
+  - D. M. Owens and E. A. K. Cohen
 doi: https://doi.org/10.1093/bioinformatics/btab136
 publication: "*Bioinformatics*"
 publication_short: "*Bioinformatics*"
