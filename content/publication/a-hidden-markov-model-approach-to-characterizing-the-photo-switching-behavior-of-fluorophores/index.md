@@ -10,8 +10,8 @@ authors:
   - R. Ober
   - R. Henriques and E. Cohen
 doi: 10.1214/19-AOAS1240
-publication: Annals of Applied Statistics
-publication_short: Annals of Applied Statistics
+publication: "*Annals of Applied Statistics*"
+publication_short: "*Annals of Applied Statistics*"
 abstract: Fluorescing molecules (fluorophores) that stochastically switch
   between photon-emitting and dark states underpin some of the most celebrated
   advancements in super-resolution microscopy. While this stochastic behavior
