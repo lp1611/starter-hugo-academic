@@ -15,7 +15,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Patel L.
+  - "*L. Patel*"
   - and E.A.K. Cohen
 summary: ""
 url_dataset: ""
