@@ -1,48 +1,36 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
+widget_id: Contact
 weight: 130
-
 title: Contact
-subtitle:
-
+subtitle: null
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-  # Contact details (edit or remove options as required)
   email: lpatel@sandia.gov
   address:
     city: Albuquerque
     region: NM
-    postcode: '87123'
+    postcode: "87123"
     country: United States
     country_code: US
-  appointment_url: 'https://calendly.com'
+  appointment_url: https://calendly.com
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: https://twitter.com/Twitter
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
-
+      link: https://zoom.com
+headless: true
 design:
-  columns: '2'
+  columns: "2"
 ---
+Contact me!
