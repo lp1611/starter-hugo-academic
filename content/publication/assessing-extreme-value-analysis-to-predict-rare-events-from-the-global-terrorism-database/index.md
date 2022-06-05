@@ -7,7 +7,8 @@ authors:
   - L. Patel
   - L. Shand
   - J. D. Tucker and G. Huerta
-publication: Proc. JSM
+publication: "*Proc. JSM*"
+publication_short: "*Proc. JSM*"
 abstract: >-
   Extreme value methods have commonly been used to predict and quantify
   uncertainty
