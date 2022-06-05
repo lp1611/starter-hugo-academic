@@ -35,6 +35,6 @@ experience:
     date_end: '2020-01-20'
     description: 'Implemented automatic skills labeling scheme with sparse and inbalanced data.'
     
-design:
-  columns: "2"
+<!-- design:
+  columns: "2" -->
 ---
