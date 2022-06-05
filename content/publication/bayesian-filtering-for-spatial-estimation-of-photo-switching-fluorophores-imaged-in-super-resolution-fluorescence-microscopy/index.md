@@ -15,7 +15,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - "**L. Patel** and E.A.K. Cohen"
+  - L. Patel and E.A.K. Cohen
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -40,3 +40,6 @@ url_poster: ""
 url_code: ""
 doi: 10.1109/ACSSC.2018.8645460
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
