@@ -8,8 +8,8 @@ authors:
   - D. Williamson
   - D.M. Owens and E.A.K. Cohen
 doi: https://doi.org/10.1093/bioinformatics/btab136
-publication: Bioinformatics
-publication_short: Bioinformatics
+publication: "*Bioinformatics*"
+publication_short: "*Bioinformatics*"
 abstract: >-
   Motivation: Many recent advancements in single-molecule localization
   microscopy exploit the stochastic photoswitching of fluorophores to reveal
