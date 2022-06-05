@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: 'Statistical and Machine Learning (ML) consultant' 
+  - title: 'Statistical and Machine Learning (ML) consultant' 
     company: 'XGenomes Corp'
     company_url: 'https://www.xgenomes.com'
     company_logo: 'XG.jpg'
