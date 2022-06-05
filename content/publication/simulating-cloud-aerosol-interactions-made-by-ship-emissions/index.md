@@ -4,8 +4,9 @@ publication_types:
   - "1"
 authors:
   - L. Patel and L. Shand
-publication: Proc. JSM
-publication_short: Proc. JSM
+author_notes: []
+publication: "*Proc. JSM*"
+publication_short: "*Proc. JSM*"
 abstract: >-
   Satellite imagery can detect temporary cloud trails or ship tracks formed from
   aerosols emitted
