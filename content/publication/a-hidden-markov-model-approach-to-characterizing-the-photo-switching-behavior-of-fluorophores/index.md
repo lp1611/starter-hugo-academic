@@ -2,7 +2,7 @@
 title: A hidden Markov model approach to characterizing the photo-switching
   behavior of fluorophores
 publication_types:
-  - "0"
+  - "2"
 authors:
   - L. Patel
   - N. Gustafsson
