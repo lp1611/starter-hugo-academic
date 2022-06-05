@@ -4,19 +4,19 @@ title: Development and characterization of a tabletop fog chamber at Sandia
 publication_types:
   - "1"
 authors:
-  - C.A. Pattyn
+  - C. A. Pattyn
   - J. Zenker
   - E. Deneke
   - "*L. Patel*"
-  - B.J. Redman
-  - J.D. van der Laan
-  - R.L. Hastings
-  - D.W. Alexander
-  - K.J. Webb
+  - B. J. Redman
+  - J. D. van der Laan
+  - R. L. Hastings
+  - D. W. Alexander
+  - K. J. Webb
   - A. Glen
-  - A.L. Sanchez
+  - A. L. Sanchez
   - K. Westlake
-  - B.Z. Bentz and J.B. Wright
+  - B. Z. Bentz and J. B. Wright
 doi: " https://doi.org/10.1117/12.2618838"
 publication: "*Proc SPIE*"
 publication_short: "*Proc SPIE*"
