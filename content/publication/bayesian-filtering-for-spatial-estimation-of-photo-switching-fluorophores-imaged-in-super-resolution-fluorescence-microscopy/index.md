@@ -15,8 +15,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Lekha-Patel
-  - Ed-Cohen
+  - L.PatelandE.A.K.Cohen
 summary: ""
 url_dataset: ""
 url_project: ""
