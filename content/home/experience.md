@@ -1,3 +1,9 @@
+---
+widget: experience
+widget_id: Experience
+weight: 30
+title: Experience
+---
 
 ---
 # An instance of the Experience widget.
