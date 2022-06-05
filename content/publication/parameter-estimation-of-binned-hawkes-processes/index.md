@@ -29,7 +29,7 @@ abstract: A key difficulty that arises from real event data is imprecision in
   importance of correct handling of binned data. Supplementary materials for
   this article are available online.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
