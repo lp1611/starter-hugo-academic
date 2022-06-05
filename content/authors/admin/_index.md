@@ -38,6 +38,6 @@ highlight_name: true
 title: Lekha Patel
 email: lpatel@sandia.gov
 ---
-I am a senior statistician at Sandia National Laboratories. My research interests broadly lie in the fields of computational statistics, simulation-based statistical learning (particle methods, Monte Carlo approaches, Approximate Bayesian Computation) of stochastic processes and Bayesian nonparametrics. Other areas of interest include spatial-temporal statistics, extreme value analysis and Bayesian variable selection. Applications include in bioinformatics and biological imaging, cyber-security, climatology and social sciences. 
+I am a senior statistician at Sandia National Laboratories. My research interests broadly lie in the fields of computational statistics, simulation-based statistical learning (particle methods, Monte Carlo approaches, Approximate Bayesian Computation) of stochastic processes and Bayesian nonparametrics. Other areas of interest include spatial-temporal statistics, extreme value analysis and Bayesian variable selection. Recently, I have developed an interest in physics-informed learning. Applications include in bioinformatics and biological imaging, cyber-security, climatology and the social sciences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
