@@ -33,4 +33,3 @@ headless: true
 design:
   columns: "2"
 ---
-Contact me!
