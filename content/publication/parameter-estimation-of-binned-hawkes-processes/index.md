@@ -5,7 +5,7 @@ publication_types:
 authors:
   - L. Shlomovich
   - E.A.K. Cohen
-  - N. Adams and L. Patel
+  - N. Adams and **L. Patel**
 doi: https://doi.org/10.1080/10618600.2022.2050247
 publication: Journal of Computational and Graphical Statistics
 publication_short: Journal of Computational and Graphical Statistics
@@ -34,5 +34,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: ""
 date: 2022-04-06T18:11:50.809Z
 ---
