@@ -8,7 +8,7 @@ interests:
   - Simulation based statistical learning
   - Bayesian nonparametrics
   - Stochastic processes
-  - Spatial-temporal statistics
+  - Temporal-spatial statistics
 social:
   - icon: envelope
     icon_pack: fas
