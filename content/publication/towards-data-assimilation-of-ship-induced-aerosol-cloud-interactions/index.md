@@ -3,7 +3,7 @@ title: Towards data assimilation of ship induced aerosol-cloud interactions
 publication_types:
   - "3"
 authors:
-  - L. Patel and L. Shand
+  - "**L. Patel**" and L. Shand
 publication: "*Preprint*"
 publication_short: "*Preprint*"
 abstract: >-
