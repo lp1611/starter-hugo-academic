@@ -4,7 +4,7 @@ title: A hidden Markov model approach to characterizing the photo-switching
 publication_types:
   - "2"
 authors:
-  - L. Patel
+  - "**L. Patel**"
   - N. Gustafsson
   - Y. Lin
   - R. Ober
