@@ -4,7 +4,7 @@ title: Assessing Extreme Value Analysis to predict rare events from the Global
 publication_types:
   - "1"
 authors:
-  - "**L. Patel**"
+  - L. Patel
   - L. Shand
   - J. D. Tucker and G. Huerta
 publication: "*Proc. JSM*"
