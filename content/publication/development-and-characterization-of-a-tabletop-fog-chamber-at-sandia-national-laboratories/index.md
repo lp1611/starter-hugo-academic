@@ -7,7 +7,7 @@ authors:
   - C. A. Pattyn
   - J. Zenker
   - E. Deneke
-  - "*L. Patel*"
+  - "**L. Patel**"
   - B. J. Redman
   - J. D. van der Laan
   - R. L. Hastings
