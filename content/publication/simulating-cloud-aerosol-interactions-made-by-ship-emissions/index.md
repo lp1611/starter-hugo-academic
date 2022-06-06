@@ -3,7 +3,7 @@ title: Simulating cloud-aerosol interactions made by ship emissions
 publication_types:
   - "1"
 authors:
-  - "**L. Patel**" and L. Shand
+  - L. Patel and L. Shand
 author_notes: []
 publication: "*Proc. JSM*"
 publication_short: "*Proc. JSM*"
