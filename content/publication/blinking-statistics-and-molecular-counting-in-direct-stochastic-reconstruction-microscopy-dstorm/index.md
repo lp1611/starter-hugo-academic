@@ -4,7 +4,7 @@ title: Blinking statistics and molecular counting in direct stochastic
 publication_types:
   - "2"
 authors:
-  - "**L. Patel**"
+  - L. Patel
   - D. Williamson
   - D. M. Owens and E. A. K. Cohen
 doi: https://doi.org/10.1093/bioinformatics/btab136
