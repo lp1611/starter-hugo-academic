@@ -3,7 +3,7 @@ title: Spatio-temporal extreme event modeling of terror insurgencies
 publication_types:
   - "3"
 authors:
-  - "**L. Patel**"
+  - L. Patel
   - L. Shand
   - J. D. Tucker and G. Huerta
 doi: https://arxiv.org/pdf/2110.08363.pdf
